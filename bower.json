@@ -1,0 +1,27 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "authors": [
+    "Big <innops299@gmail.com>"
+  ],
+  "description": "Simple todo list application with react frontend and angular backend",
+  "main": "gulpfile.js",
+  "keywords": [
+    "react",
+    "express",
+    "todolist"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.13.3",
+    "es6-shim": "~0.33.1",
+    "jquery": "~2.1.4"
+  }
+}
